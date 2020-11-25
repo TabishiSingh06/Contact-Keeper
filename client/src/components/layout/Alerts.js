@@ -15,3 +15,4 @@ const Alerts = () => {
 };
 
 export default Alerts;
+//these are for alerting the user if they enter wrong/invalid credentials
